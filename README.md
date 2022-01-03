@@ -1,5 +1,11 @@
 # on-emacs
-### `2nd oldest language`
+## `2nd oldest language`
+
+### Repo contains the following
+  - Readme - md file
+  - `basics.el` - lisp basics
+  - `emacs.d` - configure emacs
+
 
 ## Basic Configuration
 - Startup 
